@@ -1,0 +1,11 @@
+[
+  {"name":"ChatGPT","category":"ai","icon":"C","description":"AI-помощник для текста, идей, анализа, обучения и автоматизации задач.","url":"https://chatgpt.com","popular":true},
+  {"name":"Claude","category":"ai","icon":"Cl","description":"Модель для работы с текстами, документами, кодом и аналитическими задачами.","url":"https://claude.ai","popular":true},
+  {"name":"Gemini","category":"ai","icon":"G","description":"AI-помощник Google для поиска, текста, изображений и рабочих задач.","url":"https://gemini.google.com","popular":true},
+  {"name":"Cursor","category":"code","icon":"{ }","description":"Редактор кода с AI-помощником для разработки и изучения программирования.","url":"https://cursor.com","popular":true},
+  {"name":"Canva","category":"design","icon":"Ca","description":"Онлайн-дизайн, презентации, визуалы и AI-инструменты для контента.","url":"https://www.canva.com","popular":true},
+  {"name":"Suno","category":"ai","icon":"♪","description":"Генерация музыки и песен по текстовому описанию.","url":"https://suno.com","popular":true},
+  {"name":"Runway","category":"video","icon":"R","description":"AI-инструменты для генерации и редактирования видео.","url":"https://runwayml.com","popular":false},
+  {"name":"NotebookLM","category":"education","icon":"N","description":"Инструмент для изучения материалов, конспектов и источников.","url":"https://notebooklm.google.com","popular":false},
+  {"name":"Notion","category":"productivity","icon":"N","description":"Рабочее пространство для заметок, баз знаний, проектов и команд.","url":"https://notion.so","popular":false}
+]
