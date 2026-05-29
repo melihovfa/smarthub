@@ -1,0 +1,12 @@
+{
+  "name": "smarthub",
+  "version": "1.0.0",
+  "description": "SmartHub — портал технологий, ИИ и цифровых инструментов",
+  "scripts": {
+    "update": "node scripts/update-posts.js",
+    "post:max": "node scripts/post-to-max.js"
+  },
+  "dependencies": {
+    "fast-xml-parser": "^4.5.0"
+  }
+}
